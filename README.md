@@ -1,5 +1,5 @@
 - 👋 Hi, Joe Sollers
-- 👀 I’m interested in ... women, lol ... blockchain projects
+- 👀 I’m interested in ..... blockchain projects
 - 🌱 I’m currently learning ... creating apps and working on a blockchain 
 - 💞️ I’m looking to collaborate on ... new blockchain ideas 
 - 📫 How to reach me ... AECservices99@gmail.com
